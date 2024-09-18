@@ -1,7 +1,8 @@
 # ASIGNMENT_Django_create_api
 Create an API for a social networking application using Django Rest Framework.
 <br>
-1.cone the repository remote to local
+1.clone the repository remote to local
+<h3>Follow this Documentation</h3>https://docs.djangoproject.com/en/5.1/
 2.While I am accessing the remote repository as locally then setup the Environment for a project locally.
       using these commands:
                <h4>  >pip install virtualenv</h4> 
@@ -17,4 +18,5 @@ then go to current directory of the project and run the following commands
 
 6.In this step ,We are checking the settings and run the server file manage.py using the following command:>python manage.py runserver
 
-                   
+<h3>Follow the documentation of Django rest  framework</h3>https://www.django-rest-framework.org/                 
+7.Using this documentation we can setup the settings in setting.py and follow the step to create api.
